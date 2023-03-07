@@ -156,6 +156,13 @@ ol li {
   margin: 20px auto;
  }
 
+.button-separator{
+  margin-right:2rem;
+}
+
+.content{
+  margin:2rem;
+}
 a:link {
     color: white;
     background-color: transparent;
