@@ -156,6 +156,20 @@ ol li {
   margin: 20px auto;
  }
 
+
+ img{
+  height: 500px;
+  float:left;
+  margin-top: 5rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  
+ }
+ .align-center {
+  display: flex;
+  justify-content: center;
+}
+
 .button-separator{
   margin-right:2rem;
 }
